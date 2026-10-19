@@ -1,0 +1,11 @@
+{
+  "name": "vize-nested-v-if-type-binding-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "vize lint --format plain --help-level none --preset opinionated --type-aware src"
+  },
+  "devDependencies": {
+    "vize": "0.476.0"
+  }
+}
